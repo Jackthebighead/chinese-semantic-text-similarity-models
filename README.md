@@ -12,3 +12,6 @@ Models can be used for:
   - ESIM
   - RE2
   - tbd
+
+### Applications
+- text clustering based on embedding similarity (clustering code are confidential)
